@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>API_Field_test__c</fullName>
+    <externalId>false</externalId>
+    <label>API Field test</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Testing</fullName>
+                <default>false</default>
+                <label>Testing</label>
+            </value>
+            <value>
+                <fullName>Testing again</fullName>
+                <default>false</default>
+                <label>Testing again</label>
+            </value>
+            <value>
+                <fullName>Testing one more time</fullName>
+                <default>false</default>
+                <label>Testing one more time</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

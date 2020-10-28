@@ -2,6 +2,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.API_Field_test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Product2.Macaron_Flavor__c</field>
         <readable>true</readable>
     </fieldPermissions>

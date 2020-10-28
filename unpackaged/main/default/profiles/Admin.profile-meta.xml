@@ -210,6 +210,11 @@
     </pageAccesses>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.API_Field_test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.AccountNumber</field>
         <readable>true</readable>
     </fieldPermissions>
